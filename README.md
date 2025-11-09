@@ -8,6 +8,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about ...
 - 📫 How to reach me: 20230028163@my.xu.edu.ph
+- fun fact: Every year on October I watch my favorite movie "Hocus Pocus".
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
